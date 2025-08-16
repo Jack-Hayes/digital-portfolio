@@ -1,5 +1,5 @@
 AUTHOR = 'Jack Hayes'
-SITENAME = 'Jack Hayes Digital Portfolio'
+SITENAME = 'Jack Hayes Digital Storytelling Portfolio'
 SITEURL = "" # For local development
 PATH = "content"
 TIMEZONE = 'America/Los_Angeles'

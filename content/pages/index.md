@@ -1,6 +1,6 @@
 Title: Welcome!
 
-Welcome to my digital portfolio -- I'm Jack, a 2nd year PhD student at the [University of Washington](https://uw-cryo.github.io/) and consultant @ [Aloft Sensing](https://www.aloftsensing.com/). My research focuses on the application of spaceborne and aerial remote sensing to monitor terrestrial natural hazards, though I love exploring disclipines from biodiversity conservation to astronomy as well.
+Welcome to my digital storytelling portfolio -- I'm Jack, a 2nd year PhD student at the [University of Washington](https://uw-cryo.github.io/) and consultant @ [Aloft Sensing](https://www.aloftsensing.com/). My research focuses on the application of spaceborne and aerial remote sensing to monitor terrestrial natural hazards, though I love exploring disclipines from biodiversity conservation to astronomy as well.
 
 Here you can find a collection of my work as it relates to my digital storytelling, including writings, maps, web-based applications, and more. If you're looking for anything in particular, feel free to reach out!
 
