@@ -23,8 +23,6 @@ MENUITEMS = (
     ('Writing', '/writing.html'),
     ('Maps', '/maps.html'),
     ('Apps', '/apps.html'),
-    ('Presentations', '/presentations.html'),
-    ('Software', '/software.html'),
     ('Misc', '/misc.html'),
 )
 

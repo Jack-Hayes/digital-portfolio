@@ -14,7 +14,7 @@ There's something deeply satisfying about taking a dense scientific or engineeri
 
 ## **Academic Writing**
 
-Boy are academic journals a juxtaposition. After just a year in a PhD program, I've seen enough of the "publish or perish" culture's fascinating contradictions baked into this whole enterprise. There are some interesting dynamics and hypocrisies in this world of science, but I'll leave it at that for now. That said, the core concept of journal papers and articles (scientists openly sharing their results and process with the broader scientific community) is a positive.
+Boy are academic journals a juxtaposition. After just a year in a PhD program, I've seen enough of the "publish or perish" culture's fascinating contradictions baked into the whole enterprise. There are some interesting dynamics and hypocrisies in this world of science, but I'll leave it at that for now. That said, the core concept of journal papers and articles (scientists openly sharing their results and process with the broader scientific community) is a positive.
 
 <p class="citation">Plumptre, A., Hayes, J., Baisero, D., Rose, R., Holness, S., von Staden, L., & Smith, R. J. (2024, September 10). Strengths and complementarity of systematic conservation planning and Key Biodiversity Area approaches for spatial planning. https://doi.org/10.1111/cobi.14400 <em>Conservation Biology</em>, e14400.</p>
 
