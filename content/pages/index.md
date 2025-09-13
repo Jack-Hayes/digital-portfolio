@@ -1,6 +1,6 @@
 Title: Welcome!
 
-Welcome to my digital storytelling portfolio -- I'm Jack, a 2nd year PhD student at the [University of Washington](https://uw-cryo.github.io/) and consultant @ [Aloft Sensing](https://www.aloftsensing.com/). My research focuses on the application of spaceborne and aerial remote sensing to monitor terrestrial natural hazards, though I love exploring disclipines from biodiversity conservation to astronomy as well.
+Welcome to my digital storytelling portfolio -- I'm Jack, an independent contractor @ [Aloft Sensing](https://www.aloftsensing.com/) fascinated with synthetic aperture radar and natural hazards. I recently exited a PhD program early at the [University of Washington](https://uw-cryo.github.io/) where my research focused on the application of spaceborne and aerial remote sensing altimetry to measure a wide variety of earth science phenomena (cryosphere, vegetation, solid earth) in precise geodetic frameworks, though I love exploring disclipines from biodiversity conservation to astronomy as well.
 
 Here you can find a collection of my work as it relates to my digital storytelling, including writings, maps, web-based applications, and more. If you're looking for anything in particular, feel free to reach out!
 
@@ -11,8 +11,7 @@ Here you can find a collection of my work as it relates to my digital storytelli
 ---
 
 Jack Hayes  
-Civil & Environmental Engineering  
-University of Washington  
-jehayes(at)uw.edu  
+Aloft Sensing, Independent Contractor
+jackeghayes(at)gmail.com  
 
-Last Updated: July 22, 2025
+Last Updated: September 13, 2025

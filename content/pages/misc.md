@@ -17,11 +17,11 @@ A large majority of my time at grad school was supporting the STV mission and un
 
 Face-to-face storytelling is truly irreplaceable -- the real-time feedback, the shared energy when an idea finally lands. While this isn't purely digital storytelling, these presentations come alive when paired with the interactive elements you'll find scattered throughout this site. I've had the privilege of speaking with wildly different audiences about various topics I'm excited about, whether that's pitching Microsoft partners on why campus needs more high-performance computing support on campus, sitting on a panel with climate scientists at the American Geophysical Union, or explaining what gravitational waves are to families and how machine learning algorithms help with detecting them.
 
-https://ui.adsabs.harvard.edu/abs/2023AGUFMSY22A..04H/abstract
+[*Oral presentation on community-based water resource management in Nepal + a panel on climate science*](https://ui.adsabs.harvard.edu/abs/2023AGUFMSY22A..04H/abstract)
 
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYK8x6kAAAAJ&citation_for_view=sYK8x6kAAAAJ:2osOgNQ5qMEC
+[*A night spent explaining gravitational waves and computer vision to families and students in Williamsburg, VA*](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYK8x6kAAAAJ&citation_for_view=sYK8x6kAAAAJ:2osOgNQ5qMEC)
 
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYK8x6kAAAAJ&citation_for_view=sYK8x6kAAAAJ:9yKSN-GCB0IC
+[*Technical presentation on geospatial data software infrastructure development*](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYK8x6kAAAAJ&citation_for_view=sYK8x6kAAAAJ:9yKSN-GCB0IC)
 
 ## **Side Projects**
 

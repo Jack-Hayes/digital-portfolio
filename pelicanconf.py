@@ -5,9 +5,11 @@ PATH = "content"
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
 THEME = "notmyidea"
+THEME_TEMPLATES_OVERRIDES = ['templates']
 
 # URLs and Paths
 RELATIVE_URLS = True
+PAGE_PATHS = ['pages', 'stories']
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 SLUGIFY_SOURCE = 'basename'        # FIX 1: Use filename for URLs
