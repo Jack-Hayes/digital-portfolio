@@ -32,7 +32,8 @@ jobs:
 
       - name: Build site (Pelican)
         run: |
-          pelican content -s pelicanconf.py -o output
+          # Use the publishing config so SITEURL and RELATIVE_URLS are correct
+          pelican content -s publishconf.py -o output
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
