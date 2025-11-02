@@ -12,8 +12,8 @@ RELATIVE_URLS = True
 PAGE_PATHS = ['pages', 'stories']
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
-SLUGIFY_SOURCE = 'basename'        # FIX 1: Use filename for URLs
-INDEX_SAVE_AS = 'blog_index.html'  # FIX 2: Stop blog index conflict
+SLUGIFY_SOURCE = 'basename'        # Use filename for URLs
+INDEX_SAVE_AS = 'blog_index.html'  # Stop blog index conflict
 
 # Static files
 STATIC_PATHS = ['images', 'extra']

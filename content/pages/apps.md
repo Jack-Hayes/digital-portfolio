@@ -15,6 +15,6 @@ I helped create a web app on the 2024 Total Solar Eclipse during my time with Ha
 
 ### *Tourism*
 
-In undergrad, I briefly helped develop an app for tourists who visit Williamsburg, VA -- a charge led by the First Gentlemen of the college and some great graduate students. The project is still going strong at William & Mary by some talented students bolstered by the campus Entrepreneurship Hub.
+In undergrad, I briefly helped develop an app for tourists who visit Williamsburg, VA--a charge led by the First Gentlemen of the college and some great graduate students. The project is still going strong at William & Mary by some talented students bolstered by the campus Entrepreneurship Hub.
 
 [https://rocketreach.co/thrillsburg-app-profile_b6cd5fd9c7734230](https://rocketreach.co/thrillsburg-app-profile_b6cd5fd9c7734230)

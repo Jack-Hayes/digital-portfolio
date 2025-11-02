@@ -1,6 +1,6 @@
 Title: Welcome!
 
-Welcome to my digital storytelling portfolio -- I'm Jack, an independent contractor @ [Aloft Sensing](https://www.aloftsensing.com/) fascinated with synthetic aperture radar and natural hazards. I recently exited a PhD program early at the [University of Washington](https://uw-cryo.github.io/) where my research focused on the application of spaceborne and aerial remote sensing altimetry to measure a wide variety of earth science phenomena (cryosphere, vegetation, solid earth) in precise geodetic frameworks, though I love exploring disclipines from biodiversity conservation to astronomy as well.
+Welcome to my digital storytelling portfolio! I'm Jack, an Independent Consultant @ [Aloft Sensing](https://www.aloftsensing.com/) fascinated with synthetic aperture radar and natural hazards. I recently exited a PhD program early at the [University of Washington](https://uw-cryo.github.io/) where my research focused on the application of spaceborne and aerial remote sensing altimetry to measure a wide variety of earth science phenomena (cryosphere, vegetation, solid earth), though I love exploring disclipines from biodiversity conservation to astronomy as well.
 
 Here you can find a collection of my work as it relates to my digital storytelling, including writings, maps, web-based applications, and more. If you're looking for anything in particular, feel free to reach out!
 
@@ -11,7 +11,9 @@ Here you can find a collection of my work as it relates to my digital storytelli
 ---
 
 Jack Hayes  
-Aloft Sensing, Independent Contractor
+
+Aloft Sensing, Independent Consultant
+
 jackeghayes(at)gmail.com  
 
-Last Updated: September 13, 2025
+Last Updated: November 2, 2025

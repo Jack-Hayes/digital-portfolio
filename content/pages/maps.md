@@ -12,10 +12,6 @@ I wish I had more to share here from my efforts in [conservation planning](https
 
 ### *Universidad de Colima, Colima Intercambio e Investigación en Vulcanología*
 
-In loose collaboration with the Universidad de Colima's [University Center for Volcanological Studies](https://portal.ucol.mx/cueiv/), I develop hazard maps for the 1913 VEI-4 Sub-Plinian Eruption of Volcan de Colima. These maps are oblique views over a 3D hillshade of the volcano and include various hazards (PDC, lahar flows, etc.) and contextual information (population cetners, water resources, etc.).
+In loose collaboration with the Universidad de Colima's [University Center for Volcanological Studies](https://portal.ucol.mx/cueiv/), I develop hazard maps for the estimated effects of the 1913 VEI-4 Sub-Plinian Eruption of Volcán de Colima on modern day infrastructure and population.
 
-Maps are currently ongoing so you'll just have to trust me on this one.
-
-### *Shiveluch Volcano*
-
-I also collaborate with researchers at GFZ Potsdam to support [Kamchatka Kuriles Supersite](https://geo-gsnl.org/supersites/permanent-supersites/kamchatka_kuriles_supersite/) efforts. This is mostly satellite stereo DEM processing, InSAR, and SAR pixel-offset tracking for scientific research purposes, but maps are a part of this too (e.g. a time series of hillshades of the Shiveluch lava dome).
+[Drive acrhive with drafts for now](https://drive.google.com/drive/folders/12op0v28XyZbKhiyPQA7m9YPPIEPdDvAN?usp=drive_link)
