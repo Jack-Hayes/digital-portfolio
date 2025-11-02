@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+        <head>
+                        <meta charset="utf-8" />
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                        <meta name="generator" content="Pelican" />
+                        <title>Misc</title>
+                        <link rel="stylesheet" href="./theme/css/main.css" />
+        </head>
+
+        <body id="index" class="home">
+                <header id="banner" class="body">
+                        <h1><a href="./">Jack Hayes Digital Storytelling Portfolio</a></h1>
+                        <nav><ul>
+                                        <li><a href="/">Home</a></li>
+                                        <li><a href="/writing.html">Writing</a></li>
+                                        <li><a href="/maps.html">Maps</a></li>
+                                        <li><a href="/apps.html">Apps</a></li>
+                                        <li><a href="/misc.html">Misc</a></li>
+                        </ul></nav>
+                </header><!-- /#banner -->
+  <section id="content" class="body">
+    <h1 class="entry-title">Misc</h1>
+    
+    <p>Not everything I work on fits neatly into the digital storytelling world. Sometimes the story lives in a software tool that solves a particular problem, or in a presentation where you're reading the room instead of designing for a screen. This is where I've collected the projects that live outside the purely digital storytelling realm but still capture that same drive to make complex ideas accessible and engaging.</p>
+<h2><strong>Software</strong></h2>
+<p>Most of my days are spent deep in code, building tools that bridge the messy reality of academic R&amp;D with the polished expectations of industry delivery. I'm also a huge believer in open-source scientific programming.</p>
+<h3><em>NASA Surface, Terrain, and Vegetation (STV)</em></h3>
+<p>A large majority of my time at grad school was supporting the STV mission and understanding the bias of different spaceborne altimetry measurements--you'd be surprised at just how much radar vs lasers vs photogrammetry disagree on tree heights. Below is a Python package built on Pixi and Ruff for grabbing and analyzing these alitmetry measurements from the various disconnected APIs and cloud storage endpoints (prioritizing STAC-compliant data). This feeds into larger NASA efforts with <a href="https://github.com/uw-cryo/DeepDEM">computer vision approaches for multimodal sensor fusion</a> and <a href="https://github.com/uw-cryo/lidar_tools/tree/main/notebooks">custom lidar processing algorithms</a>.</p>
+<p><a href="https://coincident.readthedocs.io/en/latest/">https://coincident.readthedocs.io/en/latest/</a></p>
+<h3><em>Open-Source Software</em></h3>
+<p>A small toolkit that pulls together commerical synthetic aperture radar organizations' open-source data inventories (Capella, ICEYE, Umbra) into a single, tidy table. Great if you want to quickly see what imagery exists over a place without hunting three different websites with three different data storage structures. It automatically updates every week too!</p>
+<p><a href="https://github.com/Jack-Hayes/commerical-sar-stac">https://github.com/Jack-Hayes/commerical-sar-stac</a></p>
+<p>Want to see where there's forest and where there's not? A tiny command-line helper that grabs Meta’s 1-meter tree-height maps and returns a clipped TIFF plus a simple "forest or not" mask for any area you care about.</p>
+<p><a href="https://github.com/Jack-Hayes/fetch_meta_chm">https://github.com/Jack-Hayes/fetch_meta_chm</a></p>
+<p>Draw a box on a map and instantly preview cloud-free satellite RGB, synthetic aperture radar, and contextual layers (shaded relief and land cover classification) in just a few seconds. A playful, browser-ready explorer for Earth imagery--no coding experience needed!</p>
+<p><a href="https://github.com/Jack-Hayes/planetquery">https://github.com/Jack-Hayes/planetquery</a></p>
+<h2><strong>Presentations</strong></h2>
+<p>Face-to-face storytelling is truly irreplaceable--the real-time feedback, the shared energy when an idea finally lands. I've had the privilege of speaking with wildly different audiences about various topics I'm excited about, whether that's pitching Microsoft partners on why campus needs more high-performance computing support, sitting on a panel with climate scientists at the American Geophysical Union, or explaining what gravitational waves are to families and how machine learning algorithms help with detecting them.</p>
+<p><a href="https://ui.adsabs.harvard.edu/abs/2023AGUFMSY22A..04H/abstract"><em>Oral presentation on community-based water resource management in Nepal + a panel on climate science</em></a></p>
+<p><a href="https://events.wm.edu/event/view/appliedscience/353443"><em>A night spent explaining gravitational waves and computer vision to families and students in Williamsburg, VA</em></a></p>
+<p><a href="https://sdl.gis.harvard.edu/event/symposium-spatiotemporal-data-science-geoai-social-sciences"><em>Technical presentation on geospatial data software infrastructure development</em></a></p>
+<h2><strong>Side Projects</strong></h2>
+<h3><em>What even is a Photon-Counting Satellite?</em></h3>
+<p>Here is an incomplete GitHub repository of a final project from grad school focused on what 'elevation' actually means from a photon-counting satellite.</p>
+<p><a href="https://github.com/Jack-Hayes/ATL06-Archive?tab=readme-ov-file#project-overview">https://github.com/Jack-Hayes/ATL06-Archive?tab=readme-ov-file#project-overview</a></p>
+  </section>
+                <section id="extras" class="body">
+                </section><!-- /#extras -->
+
+                <footer id="contentinfo" class="body">
+                        <address id="about" class="vcard body">
+                                Proudly powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a rel="nofollow" href="https://www.python.org/">Python</a>.
+                        </address><!-- /#about -->
+
+                        <p>The theme is by <a rel="nofollow" href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+                </footer><!-- /#contentinfo -->
+
+        </body>
+</html>
