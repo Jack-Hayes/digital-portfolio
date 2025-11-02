@@ -21,11 +21,11 @@ EXTRA_PATH_METADATA = {'extra/favicon.ico': {'path': 'favicon.ico'}}
 
 # Menu
 MENUITEMS = (
-    ('Home', '/'),
-    ('Writing', '/writing.html'),
-    ('Maps', '/maps.html'),
-    ('Apps', '/apps.html'),
-    ('Misc', '/misc.html'),
+    ('Home', 'index.html'),
+    ('Writing', 'writing.html'),
+    ('Maps', 'maps.html'),
+    ('Apps', 'apps.html'),
+    ('Misc', 'misc.html'),
 )
 
 # Disable unused pages
