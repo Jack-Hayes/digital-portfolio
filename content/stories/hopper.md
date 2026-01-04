@@ -1,4 +1,4 @@
-Title: NastGeo-esq Article
+Title: NatGeo-esq Article
 Date: 2025-09-13
 Template: story
 
@@ -8,9 +8,9 @@ Template: story
 
 *Using satellites that measure time down to picoseconds, scientists are in a race to decode the final warnings from Antarctica's Thwaites Glacier, a behemoth of ice whose collapse could redraw "sea level" for centuries to come.*
 
-<figure style="max-width:65ch; margin:0.8em auto; text-align:center;">
-    <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2020/09/090820_cg_thwaites_feat.jpg?fit=1028%2C579&ssl=1" alt="Thwaites" style="width:100%; height:auto; display:block;" />
-    <figcaption style="font-style:italic; font-size:0.85em; margin-top:0.25em;">Image from Alex Mazur, 2020</figcaption>
+<figure style="max-width:120ch; margin:0.8em auto; text-align:center;">
+    <img src=../images/thwaities_ship.png alt="Thwaites" style="width:100%; height:auto; display:block;" />
+    <figcaption style="font-style:italic; font-size:0.85em; margin-top:0.25em;">Image from CIRES, CU Boulder, 2021</figcaption>
 </figure>
 
 ---
@@ -69,7 +69,7 @@ High above the Antarctic ice, these remarkable machines continue their silent vi
 
 ### References
 
-[UW TACO Lab](https://uw-cryo.github.io/) -- Geospatial Data Analysis course
+[UW TACO Lab](https://uw-cryo.github.io/) -- Advanced Surveying and Geomatics course (CEWA537)
 
 [NASA ICESat-2 Official Mission Page](https://icesat-2.gsfc.nasa.gov/) (2018)
 
