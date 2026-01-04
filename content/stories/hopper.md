@@ -9,7 +9,7 @@ Template: story
 *Using satellites that measure time down to picoseconds, scientists are in a race to decode the final warnings from Antarctica's Thwaites Glacier, a behemoth of ice whose collapse could redraw "sea level" for centuries to come.*
 
 <figure style="max-width:120ch; margin:0.8em auto; text-align:center;">
-    <img src=../images/thwaities_ship.png alt="Thwaites" style="width:100%; height:auto; display:block;" />
+    <img src=images/thwaities_ship.png alt="Thwaites" style="width:100%; height:auto; display:block;" />
     <figcaption style="font-style:italic; font-size:0.85em; margin-top:0.25em;">Image from CIRES, CU Boulder, 2021</figcaption>
 </figure>
 
